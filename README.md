@@ -5,11 +5,13 @@
 ## 特性
 
 - 支持多种正则方言变体: `POSIX ERE`、`POSIX BRE (grep/sed)`、`PCRE (Legacy)`、`PCRE2 (PHP)`、`JavaScript`、`Python (re)`。
-- 支持国际化多语言: 英文、简体中文、繁体中文、日语、韩语、德语、法语、俄语，默认 **跟随浏览器语言**。
+- 支持国际化多语言: 英文、简体中文、繁体中文、日语、韩语、德语、法语、俄语，默认**跟随浏览器语言**。
 - 支持自定义快捷键 (默认为 `Ctrl+Shift+F`)。
 - 搜索框使用自定义 `<input>` 标签，不会与 Vimium 之类的扩展抢占输入焦点。
 
 ## 下载
+
+[Releases · kitty-panics/chrome-regex-finder]
 
 [Releases · kitty-panics/chrome-regex-finder]: https://github.com/kitty-panics/chrome-regex-finder/releases
 
