@@ -1,2 +1,6 @@
-# chrome-regex-finder
-[JS / Chrome] Use regular expressions for searching on web pages.
+# Chrome Regex Finder
+
+Use regular expressions for searching on web pages.
+
+![Settings](Settings.png)
+![Example](Example.png)
